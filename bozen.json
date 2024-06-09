@@ -12,7 +12,7 @@
         {
           "type": "executiontime",
           "style": "plain",
-          "foreground": "#8800dd",
+          "foreground": "lightMagenta",
           "template": "󰄉 {{ .FormattedMs }}\n",
           "properties": {
             "threshold": 1000,
